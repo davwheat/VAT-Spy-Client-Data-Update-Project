@@ -67,16 +67,16 @@ Cayman Islands|MW|
 Central African Republic|FE|
 Chad|FT|
 Chile|SC|
-China|ZB|
-China|ZG|
-China|ZH|
-China|ZJ|
-China|ZL|
-China|ZP|
-China|ZS|
-China|ZU|
-China|ZW|
-China|ZY|
+China|ZB|Control
+China|ZG|Control
+China|ZH|Control
+China|ZJ|Control
+China|ZL|Control
+China|ZP|Control
+China|ZS|Control
+China|ZU|Control
+China|ZW|Control
+China|ZY|Control
 Colombia|SK|
 Congo (Republic)|FC|
 Congo (Democratic Republic)|FZ|
@@ -125,16 +125,16 @@ Guyana|SY|
 Haiti|CT|
 Haiti|MT|
 Honduras|MH|
-Hong Kong SAR|VH|
+Hong Kong SAR|VH|Radar
 Hungary|LH|Control
 Iceland|BI|Control
 India|VA|Control
 India|VE|Control
 India|VI|Control
 India|VO|Control
-Indonesia|WA|
-Indonesia|WI|
-Indonesia|WR|
+Indonesia|WA|Control
+Indonesia|WI|Control
+Indonesia|WR|Control
 Iran|OI|
 Iraq|OR|
 Ireland|EI|Control
@@ -157,7 +157,7 @@ Liberia|GL|
 Libya|HL|Control
 Lithuania|EY|
 Luxembourg|EL|Control
-Macau|VM|
+Macau|VM|Control
 Madagascar|FM|
 Malawi|FW|
 Malaysia|WB|
@@ -170,7 +170,7 @@ Mauritania|GQ|
 Mauritius|FI|
 Mexico|MM|
 Moldova|LU|Control
-Mongolia|ZM|
+Mongolia|ZM|Control
 Montserrat|TR|
 Morocco|GM|
 Mozambique|FQ|
@@ -201,16 +201,16 @@ Portugal|LP|Control
 Puerto Rico, USA|TJ|
 Qatar|OT|
 Romania|LR|Control
-Russia|UE|
-Russia|UH|
-Russia|UI|
-Russia|UL|
-Russia|UN|
-Russia|UO|
-Russia|UR|
-Russia|US|
-Russia|UU|
-Russia|UW|
+Russia|UE|Control
+Russia|UH|Control
+Russia|UI|Control
+Russia|UL|Control
+Russia|UN|Control
+Russia|UO|Control
+Russia|UR|Control
+Russia|US|Control
+Russia|UU|Control
+Russia|UW|Control
 Russia|XE|
 Russia|XH|
 Russia|XI|
@@ -250,11 +250,11 @@ Switzerland|LS|Radar
 Syria|OS|
 Taiwan|RC|Control
 Tanzania|HT|
-Thailand|VT|
+Thailand|VT|Control
 Togo|DX|
 Trinidad and Tobago|TT|Radar
 Tunisia|DT|
-Turkey|LT|
+Turkey|LT|Control
 Turkmenistan-Uzbekistan|UT|
 Uganda|HU|
 Ukraine|UK|
@@ -6851,6 +6851,7 @@ ZHNY|Nanyang Jiangying - NNY|32.980833|112.615278||ZHCC|0
 ZHSN|Shennongjia Hongping - HPG|31.626111|110.34||ZHWH|0
 ZHSY|Shiyan Wudangshan - WDS|32.593333|110.906111||ZHWH|0
 ZHXF|Xiangyang Liuji - XFN|32.150556|112.290833||ZHHH|0
+ZHXY|Xinayng Minggang - XAI|32.540833|114.079167||ZHHH|0
 ZHYC|Yichang Sanxia - YIH|30.556389|111.48||ZHHH|0
 
 ZJDF|Dongfang(H)|19.136667|108.673333||ZJSA|0
@@ -11092,7 +11093,7 @@ ZYSH|Shenyang|ZYSH|
 ZYTX|Shenyang ACC - Shenyang|ZYTX|
 ZYHB|Harbin ACC (Cover 9800 and Below {Exclude 9800M}) - Shenyang|ZYHB|
 ZYTL|Dalian ACC - Shenyang|ZYTL|
-ZMBZ|Ulaan Baatar|ZMBZ|
+ZMUB|Ulaan Baatar|ZMUB|
 
 [UIRs]
 ADR_U|Adria Radar Upper|LJLA,LDZO,LQSB,LYBA,LWSS,LAAA
